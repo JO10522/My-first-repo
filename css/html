@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jordyn Osorio | Personal Website</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <ul class="navbar">
+   <li><a href="#about-me">About Me</a></li>
+   <li><a href="#my-pets">My Pets</a></li>
+   <li><a href="#interests">Interests</a></li>
+   <li><a href="#contact-me">Contact Me</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="welcome">
+        <h1>Welcome to My Website!</h1>
+        <p>
+            I'm Jordyn Osorio, a sophomore at the Williston Northampton school. 
+            On this website, you'll find more about me and my hobbies.
+        </p>
+    </section>
+
+    <section id="about-me">
+        <h2>About Me</h2>
+        <p>
+            I'm from Newark, New Jersey. My favorite sports are boxing, football, and basketball and I like to listen to rap music. I have a cat, but I also love dogs.
+            My favorite foods are burgers and wings and I am a believer that pinapple doesn't belong on pizza.
+        </p>
+    </section>
+
+    <section id="my-pets">
+        <h2>My Pets</h2>
+        <p>
+            I have a cat named Smoke. He is 2 years old, grey and black Manx cat. My sister found him as an abandoned kitten walking from school so she brought him home and the rest is history.
+        </p>
+    </section>
+
+    <section id="interests">
+        <h2>My Hobbies and Interests</h2>
+        <ul>
+            <li>Boxing</li>
+            <li>Football</li>
+            <li>Basketball</li>
+        </ul>
+        <p>
+            I play football and basketball often. I love the art of boxing. I boxed for a little bit in the past but I mostly enjoy watching the sport.
+          
+          <img src = "">
+        </p>
+    </section>
+
+    <section id="contact-me">
+        <h2>Contact Me</h2>
+        <p>
+            Feel free to reach out to me through email or connect with me on social media. You can include contact information here.
+        </p>
+    </section>
+
+ <footer>
+ <p>&copy; 2023 Jordyn Osorio</p>
+ </footer>
+</body>
+</html>
+
+
